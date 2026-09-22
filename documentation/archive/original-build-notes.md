@@ -287,6 +287,3 @@ Name files descriptively, e.g. `03-domain-join_workstation-sysdm-cpl.png` — fu
 - Screenshot after the fix, showing it now works correctly
 - This sequence — break, diagnose, fix — is the single best thing you can show an interviewer, so don't skip any step in the middle even if it feels repetitive
 
-### General tips
-- Crop out anything unnecessary (taskbar clutter, unrelated windows) but keep enough context that the screenshot is self-explanatory
-- A one-line caption under each screenshot in your README is enough — you don't need paragraphs, just "What this shows" and "Why it matters"
