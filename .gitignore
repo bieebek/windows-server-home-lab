@@ -1,0 +1,21 @@
+# Local VM state and large machine images
+.vagrant/
+*.box
+*.iso
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+
+# Local credentials and generated scratch files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.DS_Store
+Thumbs.db
